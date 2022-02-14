@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = eric.zarazir@gmail.com
+	name = eric zarazir
